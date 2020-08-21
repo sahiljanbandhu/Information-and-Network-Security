@@ -1,6 +1,6 @@
 # Information-and-Network-Security
 **Objectives:**
-To provide students with knowledge of basic concepts of computer security including network security and cryptography
+To provide students with knowledge of basic concepts of computer security including network security and cryptography.
 
 **Expected Learning Outcomes:** 
 Understand the principles and practices of cryptographic techniques. Understand a variety of generic security threats and vulnerabilities, and identify & analyze particular security problems for a given application. Understand various protocols for network security to protect against the threats in a network
