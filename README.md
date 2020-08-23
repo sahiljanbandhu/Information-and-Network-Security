@@ -14,4 +14,4 @@ Understand the principles and practices of cryptographic techniques. Understand 
 - Caesar Cipher  [--click here for code](https://github.com/sahiljanbandhu/Information-and-Network-Security/blob/master/Prac%201/CaesarCipher/src/caesarcipher/CaesarCipher.java)
 - Mono-alphabetic Cipher [--click here for code](https://github.com/sahiljanbandhu/Information-and-Network-Security/blob/master/Prac%201/Monoalpha/src/monoalpha/Monoalpha.java)
 
-**Practical 2 :**
+
