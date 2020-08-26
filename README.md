@@ -16,5 +16,5 @@ Understand the principles and practices of cryptographic techniques. Understand 
 
 **Practical 2 :** Write programs to implement the following Substitution Cipher Techniques:
 
-- Vernam Cipher  
-- Playfair Cipher 
+- Vernam Cipher | [Solution](https://github.com/sahiljanbandhu/Information-and-Network-Security/blob/master/Prac%202/PlayfairCipher/src/playfaircipher/PlayfairCipher.java) 
+- Playfair Cipher | [Splution](https://github.com/sahiljanbandhu/Information-and-Network-Security/blob/master/Prac%202/VernamCipher/src/vernamcipher/VernamCipher.java)
