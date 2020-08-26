@@ -11,8 +11,8 @@ Understand the principles and practices of cryptographic techniques. Understand 
 
 **Practical 1 :** Write programs to implement the following Substitution Cipher Techniques.
 
-- Caesar Cipher  [--click here for code](https://github.com/sahiljanbandhu/Information-and-Network-Security/blob/master/Prac%201/CaesarCipher/src/caesarcipher/CaesarCipher.java)
-- Mono-alphabetic Cipher [--click here for code](https://github.com/sahiljanbandhu/Information-and-Network-Security/blob/master/Prac%201/Monoalpha/src/monoalpha/Monoalpha.java)
+- Caesar Cipher | [Solution](https://github.com/sahiljanbandhu/Information-and-Network-Security/blob/master/Prac%201/CaesarCipher/src/caesarcipher/CaesarCipher.java)
+- Mono-alphabetic Cipher | [Solution](https://github.com/sahiljanbandhu/Information-and-Network-Security/blob/master/Prac%201/Monoalpha/src/monoalpha/Monoalpha.java)
 
 **Practical 2 :** Write programs to implement the following Substitution Cipher Techniques:
 
